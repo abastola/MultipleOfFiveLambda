@@ -22,3 +22,7 @@ fields @timestamp as Timestamp, body, @requestId, requestContext.requestId, @ini
 | limit 4050
 '''
 
+'''
+Lambda Url: https://okowufpqhswmcny2tj62phhxsm0wntgi.lambda-url.us-east-1.on.aws/
+'''
+
